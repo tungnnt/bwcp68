@@ -1,0 +1,28 @@
+{
+  "name": "online-like-share",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "crypto-random-string": "^3.3.0",
+    "event-stream": "^4.0.1",
+    "form-data": "^3.0.0",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "ora": "^5.3.0",
+    "qs": "^6.9.6",
+    "randexp": "^0.5.3",
+    "random-ipv4": "^1.0.2",
+    "random-useragent": "^0.5.0",
+    "sharp": "^0.27.0",
+    "tesseract.js": "^2.1.4",
+    "uuidv4": "^6.2.6"
+  }
+}
